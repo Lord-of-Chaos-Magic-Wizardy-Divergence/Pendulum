@@ -1,1 +1,2 @@
-# Pendulum
+# Oscillating Pendulums
+Oscillating Pendulums
